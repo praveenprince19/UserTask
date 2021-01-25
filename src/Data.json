@@ -1,0 +1,18 @@
+{
+  "List": [
+    {
+      "id": "1",
+      "name": "Jhno",
+      "email": "jhno@gmail.com",
+      "password": "test@123",
+      "role": "Admin"
+    },
+    {
+      "id": "2",
+      "name": "Robert",
+      "email": "Robert@gmail.com",
+      "password": "dfgdfg",
+      "role": "Salse"
+    }
+  ]
+}
